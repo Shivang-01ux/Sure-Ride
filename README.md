@@ -1,4 +1,4 @@
-# ZoneShield 🛡️
+# SureRide 🛡️
 ### Parametric Micro-Zone Income Protection for Hyper-Local Gig Delivery Partners
 
 > **Automatically pays delivery riders when their zone fails them — no claim, no receipts, no waiting.**
@@ -9,6 +9,24 @@
 [![React Native](https://img.shields.io/badge/React_Native-Expo-purple)](https://expo.dev)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15_+_PostGIS-blue)](https://postgresql.org)
 [![Docker](https://img.shields.io/badge/Docker-Compose-blue)](https://docker.com)
+
+---
+
+## 🎬 Demo & Design
+
+> **These are the best way to understand ZoneShield in action — start here!**
+
+### 📹 Video Demo
+**[▶️ Watch the Full Product Demo on Google Drive](https://drive.google.com/file/d/1ecpmWllHRlvs1IhzFGQhEiz2GalY_G92/view?usp=drive_link)**
+
+See ZoneShield's end-to-end trigger lifecycle in action — from a live flood event injection through fraud detection, automatic UPI payout, and real-time admin dashboard updates.
+
+---
+
+### 🎨 Figma Design
+**[🖌️ View the Complete UI/UX Design on Figma](https://www.figma.com/make/WZoYt5NSOZY9NcsuSnKUFF/Real-World-Application-Project?p=f&t=wXKd5OjkyNQG8NI9-0)**
+
+Explore the full design system — rider app screens, admin dashboard layouts, onboarding flows, zone status UI, and the complete component library used to build ZoneShield.
 
 ---
 
